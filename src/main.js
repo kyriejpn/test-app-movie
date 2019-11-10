@@ -1,4 +1,5 @@
 import Vue from 'vue';
+import 'material-icons/iconfont/material-icons.css' 
 import './plugins/vuetify';
 import App from './App.vue';
 //import VeeValidate, { Validator } from 'vee-validate';
