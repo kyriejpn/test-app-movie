@@ -1,3 +1,4 @@
+import '@babel/polyfill';
 import Vue from 'vue';
 import 'material-icons/iconfont/material-icons.css' 
 import './plugins/vuetify';
