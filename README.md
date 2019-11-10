@@ -1,2 +1,21 @@
-# test-app-movie
-Practice app production.thanks for https://qiita.com/KazukiSadasue/items/98cec388517b94b493d8
+# test-app-mov
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
